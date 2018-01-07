@@ -1,3 +1,8 @@
+target/**
+output/**
+*.iml
+*.idea/**
+
 # Compiled class file
 *.class
 
